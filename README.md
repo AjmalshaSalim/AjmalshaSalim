@@ -2,7 +2,7 @@
 <h1 align="center">Hey, Its Ajmalsha Salim </h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
-(img align="right" alt="Coding" width="400" src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHZvajEwemR1azZ3YmQwMTN3MzcybHBibnB2MHk3OTN1NXkyaTRlOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif](https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif)")
+<img align="right" alt="Coding" width="400" src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHZvajEwemR1azZ3YmQwMTN3MzcybHBibnB2MHk3OTN1NXkyaTRlOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif](https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajmalshasalim&label=Profile%20views&color=0e75b6&style=flat" alt="ajmalshasalim" /> </p>
 
