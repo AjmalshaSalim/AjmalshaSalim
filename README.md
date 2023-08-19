@@ -1,8 +1,9 @@
 ![MasterHead](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)
 <h1 align="center">Hey, Its Ajmalsha Salim </h1>
-<h3 align="center">A passionate MERN stack developer from India</h3>
-
-<img align="right" alt="Coding" width="400" src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHZvajEwemR1azZ3YmQwMTN3MzcybHBibnB2MHk3OTN1NXkyaTRlOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif](https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif)">
+<h4 align="center">A passionate MERN stack developer from India</h4>
+<h4 align="center">Currently working at Brototype.</h4>
+<br>
+<img align="center" alt="Coding" width="1000" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHZvajEwemR1azZ3YmQwMTN3MzcybHBibnB2MHk3OTN1NXkyaTRlOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajmalshasalim&label=Profile%20views&color=0e75b6&style=flat" alt="ajmalshasalim" /> </p>
 
@@ -20,7 +21,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1tRdVbyFq3h9a_hZqBMnlRtc53wB-8zbC/view?usp=drive_link](https://drive.google.com/file/d/1tRdVbyFq3h9a_hZqBMnlRtc53wB-8zbC/view?usp=drive_link)
 
-- ⚡ Fun fact **I'm Always Curious**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
