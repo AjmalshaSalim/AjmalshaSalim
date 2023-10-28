@@ -1,7 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)
 <h1 align="center">Hey, Its Ajmalsha Salim </h1>
-<h4 align="center" font-family='impact'>Self taught MERN stack web developer from India</h4>
-<h4 align="center">Currently working at Brototype.</h4>
+<h4 align="center">Self taught MERN stack web developer from India</h4>
 <br>
 <img align="center" alt="Coding" width="1000" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHZvajEwemR1azZ3YmQwMTN3MzcybHBibnB2MHk3OTN1NXkyaTRlOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
