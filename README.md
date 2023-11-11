@@ -8,24 +8,23 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
- I’m currently learning Typescript
 
- 📌 Portfolio  [🔗Link](https://ajmalsha.netlify.app/)
- 📌 Resume     [🔗Link](https://drive.google.com/file/d/1rs5LQb6aOv7_Fb4HAXzElrMNhF3Gc8OR/view?usp=drive_link)
+ 📌 Portfolio  [🔗 Link..](https://ajmalsha.netlify.app/)
+ 
+ 📌 Resume     [🔗 Link..](https://drive.google.com/file/d/1rs5LQb6aOv7_Fb4HAXzElrMNhF3Gc8OR/view?usp=drive_link)
 
- 📌 LinkedIn   [🔗Link](https://www.linkedin.com/in/ajmalsha-salim-349162253/)
+ 📌 LinkedIn   [🔗 Link..](https://www.linkedin.com/in/ajmalsha-salim-349162253/)
 
  📌 Gmail      ajmalaj8085@gmail.com
 
- 📌 📄 Know about my experiences [https://drive.google.com/file/d/1tRdVbyFq3h9a_hZqBMnlRtc53wB-8zbC/view?usp=drive_link](https://drive.google.com/file/d/1tRdVbyFq3h9a_hZqBMnlRtc53wB-8zbC/view?usp=drive_link)
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ajmal-sha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajmal-sha" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ajmal aj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ajmal aj" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ajmal aj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ajmal aj" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ajmalshasalim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajmalshasalim" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ajmalsha-salim-349162253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajmal-sha" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21122668/ajmal-aj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ajmal aj" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC1rTS6VfJ2YqN_0b5ccXFQg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ajmal aj" height="30" width="40" /></a>
+<a href="https://leetcode.com/AjmalshaSalim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajmalshasalim" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
