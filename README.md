@@ -10,7 +10,7 @@
 
  I’m currently learning Typescript
 
- 📌 Portfolio  [https://ajmalshasalim.github.io/Portfolio/](https://ajmalsha.netlify.app/)
+ 📌 Portfolio  [Link](https://ajmalsha.netlify.app/)
 
  📌 LinkedIn   [https://www.linkedin.com/in/ajmal-sha-349162253](https://www.linkedin.com/in/ajmalsha-salim-349162253/)
 
