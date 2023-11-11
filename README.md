@@ -5,7 +5,7 @@
 <img align="center" alt="Coding" width="600" height="500" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajmalshasalim&label=Profile%20views&color=0e75b6&style=flat" alt="ajmalshasalim" /> </p>
-
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
 - 🌱 I’m currently learning Typescript
