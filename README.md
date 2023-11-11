@@ -15,6 +15,8 @@
 
  📌 LinkedIn   [🔗 Link..](https://www.linkedin.com/in/ajmalsha-salim-349162253/)
 
+ 📌 Twitter    [🔗 Link..](https://twitter.com/Ajmalsha_Salim)
+
  📌 Gmail      ajmalaj8085@gmail.com
 
 
