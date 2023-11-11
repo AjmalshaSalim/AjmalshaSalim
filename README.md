@@ -8,17 +8,18 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-- 🌱 I’m currently learning Typescript
+ I’m currently learning Typescript
 
-- 👨‍💻 Portfolio [https://ajmalshasalim.github.io/Portfolio/](https://ajmalshasalim.github.io/Portfolio/)
+ 📌 Portfolio  [https://ajmalshasalim.github.io/Portfolio/](https://ajmalsha.netlify.app/)
 
-- 📝 My linkedIn [https://www.linkedin.com/in/ajmal-sha-349162253](https://www.linkedin.com/in/ajmal-sha-349162253)
+ 📌 LinkedIn   [https://www.linkedin.com/in/ajmal-sha-349162253](https://www.linkedin.com/in/ajmalsha-salim-349162253/)
 
-- 💬 Ask me about **Javascript, Node.js, Express.js**
+ 📌 Gmail      ajmalaj8085@gmail.com
+ 📌📌
 
-- 📫 How to reach me **ajmalaj8085@gmail.com**
+ 📌 📫 How to reach me **ajmalaj8085@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tRdVbyFq3h9a_hZqBMnlRtc53wB-8zbC/view?usp=drive_link](https://drive.google.com/file/d/1tRdVbyFq3h9a_hZqBMnlRtc53wB-8zbC/view?usp=drive_link)
+ 📌 📄 Know about my experiences [https://drive.google.com/file/d/1tRdVbyFq3h9a_hZqBMnlRtc53wB-8zbC/view?usp=drive_link](https://drive.google.com/file/d/1tRdVbyFq3h9a_hZqBMnlRtc53wB-8zbC/view?usp=drive_link)
 
 
 <h3 align="left">Connect with me:</h3>
