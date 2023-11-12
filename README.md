@@ -1,5 +1,5 @@
-<img width="100%" src="standard (1) (1).gif">
-![MasterHead](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)
+![MasterHead]<img width="100%" src="standard (1) (1).gif">
+(https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)
 
 <!-- <h3 align="center">Iam a Self taught MERN stack web developer</h3> -->
 
