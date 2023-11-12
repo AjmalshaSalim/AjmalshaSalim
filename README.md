@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)
-<h1 align="center">Hey, Its Ajmalsha Salim </h1>
+<h1 align="center" color='red'>Hey, Its Ajmalsha Salim </h1>
 <h4 align="center">Self taught MERN stack web developer from India</h4>
 <br>
 <img width="850px" src="https://sbr-technologies.com/wp-content/uploads/2021/06/mern.png" style="align-items: center">
