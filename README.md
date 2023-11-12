@@ -3,7 +3,7 @@
 <!-- <h3 align="center">Iam a Self taught MERN stack web developer</h3> -->
 
 <img width="100%" src="standard (1) (1).gif">
-<img width="850px" src="https://sbr-technologies.com/wp-content/uploads/2021/06/mern.png" style="align-items: center">
+<img width="100%" src="https://sbr-technologies.com/wp-content/uploads/2021/06/mern.png" style="align-items: center">
 <!-- <img align="center" alt="Coding" width="600" height="500" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif"> -->
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
