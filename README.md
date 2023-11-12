@@ -2,7 +2,7 @@
 <h1 align="center">Hey, Its Ajmalsha Salim </h1>
 <h4 align="center">Self taught MERN stack web developer from India</h4>
 <br>
-<img width="600px" src="https://sbr-technologies.com/wp-content/uploads/2021/06/mern.png" style="align-items: center">
+<img width="1000px" src="https://sbr-technologies.com/wp-content/uploads/2021/06/mern.png" style="align-items: center">
 <img align="center" alt="Coding" width="600" height="500" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif">
 
 
