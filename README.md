@@ -2,7 +2,9 @@
 <h1 align="center">Hey, Its Ajmalsha Salim </h1>
 <h3 align="center">Iam a Self taught MERN stack web developer</h3>
 <br>
-<img width="850px" src="https://drive.google.com/uc?id=1ksTgPHrfdM1GpaM0ka9IANTejvN-DLTo">
+<!-- <img width="850px" src=" -->
+ ![MasterHead](https://drive.google.com/uc?id=1ksTgPHrfdM1GpaM0ka9IANTejvN-DLTo)
+<!--  "> -->
 <img width="850px" src="https://sbr-technologies.com/wp-content/uploads/2021/06/mern.png" style="align-items: center">
 <!-- <img align="center" alt="Coding" width="600" height="500" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif"> -->
 <style>
