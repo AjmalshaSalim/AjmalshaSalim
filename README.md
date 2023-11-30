@@ -11,15 +11,15 @@
 
 
 
- 📌 Portfolio  [🔗 Link..](https://ajmalsha.netlify.app/)
+ 📌 PORTFOLIO  [🔗 Link..](https://ajmalsha.netlify.app/)
  
- 📌 Resume     [🔗 Link..](https://drive.google.com/file/d/1rs5LQb6aOv7_Fb4HAXzElrMNhF3Gc8OR/view?usp=drive_link)
+ 📌 RESUME     [🔗 Link..](https://drive.google.com/file/d/1rs5LQb6aOv7_Fb4HAXzElrMNhF3Gc8OR/view?usp=drive_link)
 
- 📌 LinkedIn   [🔗 Link..](https://www.linkedin.com/in/ajmalsha-salim-349162253/)
+ 📌 LINKEDIN   [🔗 Link..](https://www.linkedin.com/in/ajmalsha-salim-349162253/)
 
- 📌 Twitter    [🔗 Link..](https://twitter.com/Ajmalsha_Salim)
+ 📌 TWITTER    [🔗 Link..](https://twitter.com/Ajmalsha_Salim)
 
- 📌 Gmail      ajmalaj8085@gmail.com
+ 📌 GMAIL      ajmalaj8085@gmail.com
 
 
 
