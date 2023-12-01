@@ -9,28 +9,40 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+ <a href="https://ajmalsha.netlify.app/" target="blank"><img align="center" src="https://icongr.am/feather/globe.svg?size=135&color=9c38ff" alt="ajmal-sha" height="50" width="50"/></a>&nbsp;PORTFOLIO &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://drive.google.com/file/d/1rs5LQb6aOv7_Fb4HAXzElrMNhF3Gc8OR/view?usp=drive_link" target="blank"><img align="center" src="https://icongr.am/entypo/text.svg?size=135&color=386aff" alt="ajmal-sha" height="50" width="50"/></a>&nbsp;RESUME 
 
+<br>
 
- 📌 PORTFOLIO  [🔗 Link..](https://ajmalsha.netlify.app/)
- 
- 📌 RESUME     [🔗 Link..](https://drive.google.com/file/d/1rs5LQb6aOv7_Fb4HAXzElrMNhF3Gc8OR/view?usp=drive_link)
-
- 📌 LINKEDIN   [🔗 Link..](https://www.linkedin.com/in/ajmalsha-salim-349162253/)
-
- 📌 TWITTER    [🔗 Link..](https://twitter.com/Ajmalsha_Salim)
-
- 📌 GMAIL      ajmalaj8085@gmail.com
-
-
-
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect With Me:</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/ajmalsha-salim-349162253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajmal-sha" height="30" width="40"/></a>&nbsp;
-<a href="https://stackoverflow.com/users/21122668/ajmal-aj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ajmal aj" height="30" width="40"/></a>&nbsp;
-<a href="https://www.youtube.com/channel/UC1rTS6VfJ2YqN_0b5ccXFQg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ajmal aj" height="30" width="40"/></a>&nbsp;
-<a href="https://leetcode.com/AjmalshaSalim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajmalshasalim" height="30" width="40"/></a>
+<a href="https://www.linkedin.com/in/ajmalsha-salim-349162253/" target="blank"><img align="center" src="https://icongr.am/devicon/linkedin-original.svg?size=135&color=386aff" alt="ajmal-sha" height="40" width="50"/></a>&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/21122668/ajmal-aj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ajmal aj" height="40" width="50"/></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/channel/UC1rTS6VfJ2YqN_0b5ccXFQg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ajmal aj" height="40" width="50"/></a>&nbsp;&nbsp;
+<a href="https://leetcode.com/AjmalshaSalim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajmalshasalim" height="40" width="50"/></a>
+<br><br>
+<a href="mailto:ajmalaj8085@gmail.com)" target="blank"><img align="center" src="https://icongr.am/simple/gmail.svg?size=128&color=ff2e2e&colored=false" alt="ajmalshasalim" height="40" width="50"/></a> &nbsp;&nbsp;
+ <a href="https://twitter.com/Ajmalsha_Salim" target="blank"><img align="center" src="https://icongr.am/jam/twitter.svg?size=128&color=386aff" alt="ajmalshasalim" height="50" width="50"/></a> &nbsp;&nbsp;
 </p>
+<br>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>&nbsp; <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>&nbsp; <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>&nbsp; <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>&nbsp; <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>&nbsp; <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>&nbsp; <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>&nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>&nbsp; <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>&nbsp; <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>&nbsp; <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>&nbsp; <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>&nbsp; </p>
+<h2 align="left">Languages & Tools:</h2>
+<p align="left"><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://icongr.am/simple/amazonaws.svg?size=128&color=ffb22e&colored=false" alt="aws" height="50" width="50"/></a>&nbsp;&nbsp; <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="50" width="50"/></a>&nbsp;&nbsp; <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="50" width="50"/></a>&nbsp;&nbsp; <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="50" width="50"/></a>
+ <br>
+ <br>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://icongr.am/devicon/express-original.svg?size=128&color=ffffff" alt="express" height="50" width="50"/></a>&nbsp;&nbsp; <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="50" width="50"/></a>&nbsp;&nbsp; <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50" width="50"/></a>&nbsp;&nbsp;
+ <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="50" width="50"/></a>
+ <br>
+ <br>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="50" width="50"/></a>&nbsp;&nbsp; <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="50" width="50"/></a>&nbsp;&nbsp; <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="50" width="50"/></a>&nbsp;&nbsp; <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" height="50" width="50"/></a>
+ <br>
+ <br>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" height="50" width="50"/></a>&nbsp;&nbsp; <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" height="50" width="50"/></a>&nbsp;&nbsp;
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" height="50" width="50"/></a>&nbsp;&nbsp;
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" height="50" width="50"/></a>
+</p>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="firebase" height="50" width="50"/></a>&nbsp;&nbsp; <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" height="50" width="50"/></a>&nbsp;&nbsp;
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" height="50" width="50"/></a>&nbsp;&nbsp;
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery" height="50" width="50"/></a>
+</p>
