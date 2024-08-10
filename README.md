@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
  <a href="https://ajmalsha.netlify.app/" target="blank"><img align="center" src="https://icongr.am/feather/globe.svg?size=135&color=9c38ff" alt="ajmal-sha" height="50" width="50"/></a>&nbsp;PORTFOLIO &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://drive.google.com/file/d/1tlCk5Idw2bNnTiVbGBWHzqcBRF9BH5Tz/view?usp=drive_link" target="blank"><img align="center" src="https://icongr.am/entypo/text.svg?size=135&color=386aff" alt="ajmal-sha" height="50" width="50"/></a>&nbsp;RESUME 
+ <a href="https://drive.google.com/file/d/1y3-XHOp-cbrHpCD7E19jzMkGfTb4YYVX/view?usp=sharing" target="blank"><img align="center" src="https://icongr.am/entypo/text.svg?size=135&color=386aff" alt="ajmal-sha" height="50" width="50"/></a>&nbsp;RESUME 
 
 <br>
 <br>
